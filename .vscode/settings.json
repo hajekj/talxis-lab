@@ -27,5 +27,11 @@
     "**/node_modules/**": true,
     "**/bin/**": true,
     "**/obj/**": true
+  },
+  "chat.tools.terminal.autoApprove": {
+    "/^pwsh \\./lab-status\\.ps1$/": {
+      "approve": true,
+      "matchCommandLine": true
+    }
   }
 }
