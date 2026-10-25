@@ -10,5 +10,6 @@
   "devEnvUrl": "https://wm-dev-6598.crm.dynamics.com",
   "devProfile": "dev",
   "testEnvUrl": "https://wm-test-6598.crm.dynamics.com",
-  "testProfile": "test"
+  "testProfile": "test",
+  "appId": "7a0479ae-b243-49de-9961-6ec81eaf760a"
 }
